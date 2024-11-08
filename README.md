@@ -8,4 +8,5 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+
+Lauren Cole
